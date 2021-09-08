@@ -4,4 +4,4 @@ An online multiplayer Unity game where you race against other players to reach t
 Levels are randomly generated and physics created manually using verlet integration.
 
 ![screenshot](gameplay.gif)
-![screenshot](screenshot_3.png)
+![screenshot](screenshot.png)
